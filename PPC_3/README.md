@@ -61,7 +61,13 @@ Aqui gera os arquivos campo_sem_geracao.png e evolucao_sem_geracao.png.
 Aqui gera os arquivos campo_com_geracao.png e evolucao_com_geracao.png.
 
 ## Validação metodológica
+* **Condições de contorno:** observando os gráficos da evolução de temperatura em função do tempo, a curva para o nó 7 responde instantaneamente no início do regime transiente, ela sai da temperatura inicial uniforme e segue para o equilíbrio com o fluido externo, validando o balanço de energia implícito no contorno. No caso sem geração interna, o domínio estabiliza de forma assintótica próximo à temperatura do fluido externo. A eliminação do gradiente térmico conforme o tempo passa mostra que o contorno esquerdo funciona como isolante térmico.
 
+* **Geração interna:** para o caso sem geração, a temperatura máxima atinge cerca de 280 °C na superfície e o interior fica pouco abaixo pela condução pura a partir do contorno. Para o caso com geração, a temperatura máxima fica próximo de 800 °C, gerando o perfil parabólico característico em reatores com geração interna.
+
+* **Estabilidade numérica:** a suavidade das curvas temporais e a distribuição dos nós intermediários confirmam a estabilidade numérica, pois o esquema implícito eliminou oscilações numéricas ou divergência com o passo de tempo adotado. Além disso, o algortimo de Thomas possui uma boa precisão numérica, resolvendo o sistema tridiagonal sem acúmulo de erros de arredondamento.
+
+Os gráficos poderiam ter ficados ainda mais suaves, principalmente os campos de cores, se fossem utilizados mais nós e aumentado o tempo de simulação.
 
 ## Bibliografia
 1. Roteiro PPC3 e APC3 disponibilizado pelo professor.
