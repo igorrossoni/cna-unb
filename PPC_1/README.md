@@ -2,6 +2,8 @@
 O objetivo desta atividade é implementar computacionalmente o método de Runge-Kutta de quarta ordem para a solução do problema de sedimentação de uma esfera em regime de baixo Reynolds.
 O programa "ppc1-rk4.f90" é capaz de fazer a análise do problema de valor inicial para diferentes parâmetros, apenas alterando os valores de variáveis, como o número de Reynolds ou de Stokes, tanto de forma numérica quanto de forma analítica.
 
+Os arquivos "res0, res2, res4, res6, res8, res10.dat", "sol_num01, sol_num04, sol_num07, sol_num1.dat", "st1, st2, st4, st6, st8.dat" e "tempo01, tempo05, tempo1.dat" presentes no diretório "outputs" são os arquivos de dados usados para gerar os gráficos "comp_num_analit.png", "diferentes_passos.png", "diferentes_red.png" e diferentes_st.png".
+
 ## Variáveis
 * h = passo de tempo
 * t0 e tf = tempos inicial e final
