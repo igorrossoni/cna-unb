@@ -30,8 +30,11 @@ O grafico.py gera um grafico "curvas_de_nivel.png", que mostra as curvas de nív
 A execução pode ser realizada diretamente pelo terminal:
 1. gfortran ppc4.f90
 2. ./a.out
+   
    Aqui é gerado "output1.dat", "output2.dat" e "function.dat"
-3. python grafico.py
+   
+4. python grafico.py
+   
    Aqui é gerado "curvas_de_nivel.png"
 
 ## Validação metodológica
