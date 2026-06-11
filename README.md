@@ -16,6 +16,7 @@ Este é um repositório desenvolvido para a disciplina Cálculo Numérico Aplica
 ```text
 cna-unb/
 ├── README.md                     # Metadados, motivação e bibliografia geral
+├── livro-cna.pdf                 # Livro utilizado de referência para o estudo dos métodos numéricos
 ├── PPC_01/                       # Diretório da Prática 01 (Runge-Kutta de 4° ordem)
 │   ├── README.md                 # Resumo, dicionário de variáveis, I/O e validação
 │   ├── PPC1 e APC1.pdf           # Roteiro da atividade
@@ -69,3 +70,4 @@ cna-unb/
 ```
 
 ## Referências
+* Métodos numéricos para Engenharia, Steven C. Chapra e Raymond P. Canale, McGrawHill;
