@@ -1,18 +1,19 @@
 # Métodos praticados em sala de aula
 ## Métodos para raízes de funções
-### Runge-Kutta de quarta ordem
-### Método da bissecção
-### Método da falsa posição e falsa posição modificado
-### Método de Newton-Raphson (raíz e sistemas não-lineares)
-### Método da secante
-### Método de Müller
-### Método de Bairstow
+### Runge-Kutta de quarta ordem - disponível em PPC_1/ppc1-rk4.f90
+### Método da bissecção - disponível em trabalhos_sala/bisseccao-falsaPosicao
+### Método da falsa posição e falsa posição modificado - disponível em trabalhos_sala/bisseccao-falsaPosicao
+### Método de Newton-Raphson (raíz e sistemas não-lineares) - disponível em trabalhos_sala/NewtonRaphson
+### Método de Müller - disponível em trabalhos_sala/muller
+### Método de Bairstow - disponível em PPC_2/ppc2-bairstow.f90
 
 ## Sistemas lineares
-### Eliminação Gaussiana
-### Método de decomposição de Gauss-Jordan
-### Método de decomposição LU e inversão matricial
-### Método de decomposição de Crout
-### Algoritmo de Thomas (sistemas tridiagonais)
-### Decomposição de Cholesky
-### Método iterativo de Gauss-Seidel (com e sem relaxação)
+### Eliminação Gaussiana - disponível em trabalhos_sala/eliminacao
+### Método de decomposição LU e inversão matricial - disponível em trabalhos_sala/decomp-LU-inversa
+### Algoritmo de Thomas (sistemas tridiagonais) - disponível em PPC_3/ppc3-thomas.f90
+
+## Otimização
+### Interpolação quadrática - disponível em trabalhos_sala/interp-quad-razao-aurea
+### Razão Áurea - disponível em trabalhos_sala/interp-quad-razao-aurea
+### Método do aclive máximo - disponível em PPC_4/ppc4.f90
+### Método dos gradientes conjugados (Fletcher-Reeves) - disponível em PPC_4/ppc4.f90
