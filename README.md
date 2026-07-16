@@ -109,3 +109,5 @@ cna-unb/
 
 ## Referências
 * Métodos numéricos para Engenharia, Steven C. Chapra e Raymond P. Canale, McGrawHill;
+* R. G. Gontijo, “Notas de aula do curso de Cálculo Numérico Aplicado”, (2026).
+* Canal do YouTube Ciência e Brisa.
