@@ -36,7 +36,7 @@ cna-unb/
 │       └── dados_varredura.csv
 │       └── fractal_bairstow.png
 |
-├── PPC_03/                       # Diretório da Prática 02 (Método de Thomas)
+├── PPC_03/                       # Diretório da Prática 03 (Método de Thomas)
 │   ├── README.md                 # Resumo, dicionário de variáveis, I/O e validação
 │   ├── PPC3 e APC3.pdf           # Roteiro da atividade
 │   ├── APC_3_igor_rossoni.pdf    # APC finalizada
@@ -52,7 +52,7 @@ cna-unb/
 │       └── evolucao_sem_geracao.png
 │       └── saida.dat
 |
-├── PPC_04/                       # Diretório da Prática 02 (Maximização de 2 variáveis)
+├── PPC_04/                       # Diretório da Prática 04 (Maximização de 2 variáveis)
 │   ├── README.md                 # Resumo, dicionário de variáveis, I/O e validação
 │   ├── PPC4 e APC4.pdf           # Roteiro da atividade
 │   ├── APC_4_igor_rossoni.pdf    # APC finalizada
@@ -63,6 +63,31 @@ cna-unb/
 │       └── function.dat
 │       └── output1.dat
 │       └── output2.dat
+|
+├── PPC_05/                       # Diretório da Prática 05 (Equação de Blasius)
+│   ├── README.md                 # Resumo, dicionário de variáveis, I/O e validação
+│   ├── PPC5 e APC5.pdf           # Roteiro da atividade
+│   ├── APC_5_igor_rossoni.pdf    # APC finalizada
+│   ├── blasius.f90               # Script principal com o algoritmo numérico
+│   ├── plot.gnu                  # Script de plotagem do gráfico Gnuplot
+│   └── outputs/                  # Saídas numéricas, logs e gráficos
+│       └── perfis.png
+│       └── saida.dat
+|
+├── PPC_06/                       # Diretório da Prática 06 (Transferência de calor em aleta)
+│   ├── README.md                 # Resumo, dicionário de variáveis, I/O e validação
+│   ├── PPC6 e APC6.pdf           # Roteiro da atividade
+│   ├── APC_6_igor_rossoni.pdf    # APC finalizada
+│   ├── ppc6.f90                  # Script principal com o algoritmo numérico
+│   ├── plot.gnu                  # Script de plotagem do gráfico Gnuplot
+│   └── outputs/                  # Saídas numéricas, logs e gráficos
+│       └── erro_percentual.png
+│       └── linha_central.png
+│       └── mapa_temp.png
+│       └── centro.dat
+│       └── gauss.dat
+│       └── liebmann.dat
+│       └── relax.dat
 |
 └── trabalhos_sala/           # Projetos feitos em sala
     ├── README.md             # Resumo do que tem no diretório e dos métodos
