@@ -65,8 +65,17 @@ cna-unb/
 │       └── output2.dat
 |
 └── trabalhos_sala/           # Projetos feitos em sala
-    ├── 
-    └── 
+    ├── README.md             # Resumo do que tem no diretório e dos métodos
+    ├── NewtonRaphson/
+    ├── bisseccao-falsaPosicao/
+    ├── decomp-LU-inversa/
+    ├── eliminacao/           # Eliminação Gaussina
+    ├── euler-heun/
+    ├── interp-quad-razao-aurea/
+    ├── liebmann/
+    ├── muller
+    ├── tiro/
+    └── plot-graficos-python/ # Programas de plotagem de alguns gráficos em python
 ```
 
 ## Referências
