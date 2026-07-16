@@ -19,3 +19,10 @@ Neste diretório estão presentes todos os códigos de atividades realizadas em 
 * Razão Áurea - disponível em `trabalhos_sala/interp-quad-razao-aurea`
 * Método do aclive máximo - `disponível em PPC_4/ppc4.f90`
 * Método dos gradientes conjugados (Fletcher-Reeves) - `disponível em PPC_4/ppc4.f90`
+
+## Integração numérica, EDOs e EDPs
+* Método de Euler-Heun - disponível em `trabalhos_sala/euler-heun`
+* Runge-Kutta de quarta ordem - disponível em `PPC_5/blasius.f90`
+* Método do Tiro - disponível em `trabalhos_sala/tiro`
+* Método Leapfrog - disponível em ...
+* Método de Liebmann - disponível em `trabalhos_sala/liebmann` e `PPC_6/ppc6.f90`
