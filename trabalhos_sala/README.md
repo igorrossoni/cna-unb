@@ -24,5 +24,5 @@ Neste diretório estão presentes todos os códigos de atividades realizadas em 
 * Método de Euler-Heun - disponível em `trabalhos_sala/euler-heun`
 * Runge-Kutta de quarta ordem - disponível em `PPC_5/blasius.f90`
 * Método do Tiro - disponível em `trabalhos_sala/tiro`
-* Método Leapfrog - disponível em ...
+* Método Leapfrog - disponível em `trabalhos_sala/leapfrog/leapfrog.f90`
 * Método de Liebmann - disponível em `trabalhos_sala/liebmann` e `PPC_6/ppc6.f90`
